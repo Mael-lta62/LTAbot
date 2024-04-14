@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mael2\\Documents\\LTAbotV13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\commands\\music\\play.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:commands\\music\\play.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\commands\\utils\\poll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:commands\\utils\\poll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\utils\\handlers\\CommandUtil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\handlers\\CommandUtil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\events\\client\\interactionCreate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:events\\client\\interactionCreate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\events\\client\\ready.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:events\\client\\ready.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\utils\\Functions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\Functions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mael2\\Documents\\LTAbotV13\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interactionCreate.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\events\\client\\interactionCreate.js",
+              "RelativeDocumentMoniker": "events\\client\\interactionCreate.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\events\\client\\interactionCreate.js",
+              "RelativeToolTip": "events\\client\\interactionCreate.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T09:49:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ready.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\events\\client\\ready.js",
+              "RelativeDocumentMoniker": "events\\client\\ready.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\events\\client\\ready.js",
+              "RelativeToolTip": "events\\client\\ready.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T09:47:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Functions.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\utils\\Functions.js",
+              "RelativeDocumentMoniker": "utils\\Functions.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\utils\\Functions.js",
+              "RelativeToolTip": "utils\\Functions.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T09:46:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandUtil.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\utils\\handlers\\CommandUtil.js",
+              "RelativeDocumentMoniker": "utils\\handlers\\CommandUtil.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\utils\\handlers\\CommandUtil.js",
+              "RelativeToolTip": "utils\\handlers\\CommandUtil.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T09:46:10.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "poll.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\commands\\utils\\poll.js",
+              "RelativeDocumentMoniker": "commands\\utils\\poll.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\commands\\utils\\poll.js",
+              "RelativeToolTip": "commands\\utils\\poll.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T09:26:11.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "play.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\commands\\music\\play.js",
+              "RelativeDocumentMoniker": "commands\\music\\play.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\commands\\music\\play.js",
+              "RelativeToolTip": "commands\\music\\play.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T09:00:58.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T08:46:10.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\mael2\\Documents\\LTAbotV13\\index.js",
+              "RelativeDocumentMoniker": "index.js",
+              "ToolTip": "C:\\Users\\mael2\\Documents\\LTAbotV13\\index.js",
+              "RelativeToolTip": "index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T08:45:42.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
